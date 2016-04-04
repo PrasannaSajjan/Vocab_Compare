@@ -20,7 +20,7 @@ rank 1 in the play Romeo & Juliet appears 161 times whereas in Macbeth it appear
 for each word in the top 50 words is calculated by adding all the occurrences of top 50 words divided by 50. For Macbeth it was 
 1437/50 and for Romeo & Juliet it was 2487/50. This came out to be 28.74 for Macbeth and 49.74 for Romeo & Juliet.
 
-CONCLUSION: Since the average occurrence of top 50 words for Romeo & Juliet is way more than that of Macbeth, this concludes that 
+**CONCLUSION:** Since the average occurrence of top 50 words for Romeo & Juliet is way more than that of Macbeth, this concludes that 
 the vocabulary of Macbeth is better than Romeo & Juliet.
 
 ![Correlation-Value](https://github.com/PrasannaSajjan/Vocab_Compare/blob/master/images/Results.JPG)
